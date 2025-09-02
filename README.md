@@ -7,6 +7,12 @@
 
 Soy un profesional especializado en automatización de pruebas de software con experiencia en el diseño, implementación y ejecución de soluciones de pruebas automatizadas. Mi objetivo es garantizar la calidad del software mediante la implementación de estrategias de pruebas efectivas utilizando las mejores prácticas y tecnologías modernas.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mickinfo&theme=buefy&show_icons=true&hide_border=true&count_private=true"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickinfo&theme=buefy&hide_border=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickinfo&theme=buefy&show_icons=true&hide_border=true&layout=compact">
+</p>
+
 ## 🛠️ Habilidades técnicas
 
 ### Frameworks y Herramientas de Automatización
